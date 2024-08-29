@@ -2,6 +2,7 @@
 [![](https://img.shields.io/badge/Canvas-D43B35?style=for-the-badge&logo=canvas&logoColor=white)](https://iu.instructure.com/courses/2252915)
 [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Epx8exZ2X)
 [![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/docs/getting-started)
+[![](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)](https://docs.expo.dev/)
 [![](https://img.shields.io/badge/Firebase-E58331?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/docs)
 [![](https://img.shields.io/badge/iOS-EA5239?style=for-the-badge&logo=iOS&logoColor=white)](https://firebase.google.com/docs/ios/setup)
 [![](https://img.shields.io/badge/Android-71D98C?style=for-the-badge&logo=android&logoColor=white)](https://firebase.google.com/docs/android/setup)
