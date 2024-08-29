@@ -1,5 +1,5 @@
 # Welcome to INFO-I400/590 (Cross-Platform Mobile Programming)
-[![](https://img.shields.io/badge/Canvas-D43B35?style=for-the-badge&logo=canvas&logoColor=white)](https://iu.instructure.com/courses/2169250)
+[![](https://img.shields.io/badge/Canvas-D43B35?style=for-the-badge&logo=canvas&logoColor=white)](https://iu.instructure.com/courses/2252915)
 [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Epx8exZ2X)
 [![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/docs/getting-started)
 [![](https://img.shields.io/badge/Firebase-E58331?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/docs)
