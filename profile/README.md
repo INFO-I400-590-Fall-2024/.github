@@ -27,7 +27,7 @@ We'll be using **Node.js** to deploy local variants of our code, as well as inst
 
 You can download Node.js [from here](https://nodejs.dev/en/), via the CLI (as shown on the linked site), or via a package manager of your choice (we do not mind how you do it, just make sure you do it!).
 
-# General Expectations for Assignment
+# General Expectations for Assignments
 
 Assignments will be released *after class* on Tuesdays and Thursdays, and they will be due on the following Tuesdays at 11:59pm respectively. Our hope is that you take some time to reflect on what we teach you, and try your best to show your understanding of the content while it is still fresh. 
 
